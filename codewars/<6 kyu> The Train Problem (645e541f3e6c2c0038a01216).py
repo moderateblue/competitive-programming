@@ -23,9 +23,6 @@ def is_valid_train_arrangement(before, after):
     if len(brtrains) == 0 and len(artrains) == 0 and len(bltrains) == 0 and len(altrains) == 0:
         return True
     
-    left = 0
-    right = 0
-    
     for i, x in enumerate(brtrains):
         if x > artrains[i]:
             return False
