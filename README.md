@@ -6,4 +6,5 @@ Only uploading ones higher (or around) 1400 rating on CodeChef
 
 
 
+
 Only uploading ones equal or higher than 6 kyu on CodeWars
