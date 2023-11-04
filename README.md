@@ -6,8 +6,8 @@ Only uploading ones higher (or around) 1400 rating on CodeChef
 <br>
 Only uploading ones equal or higher than 6 kyu on CodeWars <br>
 <br>
-<sup><sub>before anyone asks I know :
+<sup><sub>before anyone asks I know</sub></sup>
 ```cpp
 using namespace std;
 ```
-is not good practice 💀 </sub></sup>
+<sup><sub>is not good practice 💀 </sub></sup>
